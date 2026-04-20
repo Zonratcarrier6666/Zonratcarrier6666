@@ -26,7 +26,12 @@ Sistema para gestión de escuelas
 ### 🚗 API de Vehículos
 API para gestión de vehículos  
 - Python  
-- REST API  
+- REST API
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zonratcarrier6666&show_icons=true)
 
 ---
 
