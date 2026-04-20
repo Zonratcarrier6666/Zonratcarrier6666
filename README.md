@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Angel Puga
 
-<!--
-**Zonratcarrier6666/Zonratcarrier6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero en Software  
+🧰 Enfocado en Soporte IT, Redes y Desarrollo  
+🌎 Buscando oportunidades remotas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+- 💻 Lenguajes: Python, JavaScript, C#
+- 🌐 Frontend: Angular, HTML, CSS
+- 🗄️ Bases de datos: MySQL, SQL Server
+- ☁️ Cloud: AWS, Azure
+- 🔧 Redes: VLANs, routing, firewalls, Ubiquiti
+
+---
+
+## 📌 Proyectos destacados
+
+### 🥋 Sistema Taekwondo
+Sistema para gestión de escuelas  
+- Backend en Python  
+- Frontend en Angular  
+
+### 🚗 API de Vehículos
+API para gestión de vehículos  
+- Python  
+- REST API  
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/angel-eduardo-puga-barrientos-4080572b1/
+- Email: angel.puga100@gmail.com
